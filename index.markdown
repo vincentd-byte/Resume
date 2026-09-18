@@ -18,4 +18,3 @@ Feel free to connect with me.
 
 ### LinkedIn
 [LinkedIn Profile](https://www.linkedin.com/in/your-username/)
-```
