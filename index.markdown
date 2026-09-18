@@ -11,7 +11,7 @@ I have studied through high school, college, and university.
 A few projects I've worked on and enjoyed building.
 
 ## Employment
-My work experience and professional journey.
+Work at wonderland
 
 ## Contact Me
 Feel free to connect with me.
