@@ -1,18 +1,21 @@
+
 # Vincent Resume
 
+## About Me
+Hi, I'm V. I enjoy learning, creating, and growing my skills.
 
+## Education
+I have studied through high school, college, and university.
 
-# about me 
-## HI IM V 
-
-## education
-HIGH SCHOOL AND COLLAGE AND UNIVERSITY
-
-## project
+## Projects
+A few projects I've worked on and enjoyed building.
 
 ## Employment
+My work experience and professional journey.
 
+## Contact Me
+Feel free to connect with me.
 
-# contact me
-## [LINKEDIN] {https://www.linkedin.com/company/aerviva/?gad_source=1&gad_campaignid=22849510036&gbraid=0AAAAAokNwkTNcz6ynF6_SWO7AurQCjvma&gclid=CjwKCAjwwrPVBhA1EiwAv_YO-V9eBFMhbkKhxgYPSlVOCvoDtjQcxqYKZvaBGhZG4i2wtNCcW7jdfxoCV5cQAvD_BwE}
-
+### LinkedIn
+[LinkedIn Profile](https://www.linkedin.com/in/your-username/)
+```
