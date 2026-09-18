@@ -3,7 +3,7 @@
 
 ## About Me
 
-![pin wheel]()
+![pin wheel](8e64b3f12ca8d1d2b0967a38138ab3f5.jpg)
 
 
 Hi, I'm V. I enjoy learning, creating, and growing my skills.
