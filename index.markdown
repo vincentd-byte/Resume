@@ -2,6 +2,10 @@
 # Vincent Resume
 
 ## About Me
+
+![pin wheel]()
+
+
 Hi, I'm V. I enjoy learning, creating, and growing my skills.
 
 ## Education
